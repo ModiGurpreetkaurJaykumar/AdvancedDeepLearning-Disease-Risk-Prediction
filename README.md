@@ -1,4 +1,4 @@
-# 🏥 Advanced Deep Learning for Disease Risk Prediction
+# 🩺 Advanced Deep Learning for Disease Risk Prediction
 
 ## Project Overview
 Early identification of disease risk is a key challenge in preventive healthcare. This project implements an advanced and interpretable **Disease Risk Prediction System** using **Machine Learning (ML)** and **Deep Learning (DL)** techniques on structured health and lifestyle data.
@@ -115,8 +115,8 @@ The ANN achieved competitive results but did not outperform the best classical M
 ├── Data/
 │ └── health_lifestyle_dataset.csv
 ├── Disease_Risk_Prediction_ML_DL.ipynb
-├── README.md
 ├── Disease_Risk_Prediction_Report.pdf
+├── README.md
 
 ---
 
